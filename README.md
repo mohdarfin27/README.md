@@ -2,7 +2,7 @@
 
 Full Stack Web Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<!-- - 🔭 Here's my [portfolio](https://hajeeth.github.io/Ahamed_Riz_Portfolio)                                                  -->
+ 🔭 Here's my [portfolio](https://mohdarfin27.github.io/Portfolio)                                                  
 - 🌱 I’m currently working on web development technology 
 - 👯 I’m looking to collaborate on App Development
 - 🤔 I’m looking for help with Placements in MNC's 
